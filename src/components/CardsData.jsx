@@ -1,0 +1,57 @@
+const Cardsdata = [
+  {
+    id: 1,
+    rname: "Tênis Adidas ST Mid nº 37",
+    imgdata: "https://images2.imgbox.com/f9/65/CMoSkizI_o.jpg",
+    somedata: " 1175 + order placed from here recently",
+    price: 100,
+    rating: "4.7",
+    qnty: 0,
+  },
+  {
+    id: 2,
+    rname: "All in One CCE 24'",
+    imgdata: "https://images2.imgbox.com/f1/8d/7i0wRDnR_o.jpg",
+    somedata: " 2525 + order placed from here recently",
+    price: 700,
+    rating: "4.4",
+    qnty: 0,
+  },
+  {
+    id: 3,
+    rname: "Conjunto Avaí Infantil",
+    imgdata: "https://images2.imgbox.com/de/22/AX0Kvwr4_o.jpg",
+    somedata: " 650 + order placed from here recently",
+    price: 50,
+    qnty: 0,
+  },
+  {
+    id: 4,
+    rname: "Need For Speed Carbon NGC",
+    imgdata: "https://images2.imgbox.com/42/7d/jszfpc93_o.jpg",
+    somedata: " 300 + order placed from here recently",
+    price: 150,
+    rating: "4.6",
+    qnty: 0,
+  },
+  {
+    id: 5,
+    rname: "Playstation 1",
+    imgdata: "https://images2.imgbox.com/64/ac/gASWIQFw_o.jpg",
+    somedata: "1050 + order placed from here recently",
+    price: 300,
+    rating: "4.2",
+    qnty: 0,
+  },
+  {
+    id: 6,
+    rname: "Resident Evil 4 NGC",
+    imgdata: "https://images2.imgbox.com/9f/64/K5LVFcqs_o.jpg",
+    somedata: " 1100 + order placed from here recently",
+    price: 200,
+    rating: "4.0",
+    qnty: 0,
+  },
+];
+
+export default Cardsdata;
